@@ -44,7 +44,7 @@ Microservices with go/
 
 ## ▶️ Running the Application
 
-```bash:-
+bash:-
 go run main.go
 
 Server starts on 
@@ -169,5 +169,6 @@ Hrishab Pachange
 Computer Science Student and Golang Developer  
 AI/ML Engineer Intern  
 REST APIs and Microservices Enthusiast
+
 
 
