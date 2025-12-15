@@ -45,7 +45,7 @@ Microservices with go/
 ## ▶️ Running the Application
 
 bash:-
-go run main.go
+`go run main.go`
 
 Server starts on 
 http://localhost:9090
@@ -169,6 +169,7 @@ Hrishab Pachange
 Computer Science Student and Golang Developer  
 AI/ML Engineer Intern  
 REST APIs and Microservices Enthusiast
+
 
 
 
