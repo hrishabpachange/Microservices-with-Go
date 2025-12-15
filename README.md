@@ -30,7 +30,7 @@ This project intentionally avoids frameworks to gain a deep understanding of Go�
 
 ## 📁 Project Structure
 
-`Microservices with go/
+```Microservices with go/
 │
 ├── main.go
 ├── handlers/
