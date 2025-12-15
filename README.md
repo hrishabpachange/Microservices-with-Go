@@ -30,7 +30,7 @@ This project intentionally avoids frameworks to gain a deep understanding of Go�
 
 ## 📁 Project Structure
 
-``Microservices with go/
+```Microservices with go/
 │
 ├── main.go
 ├── handlers/
@@ -39,7 +39,7 @@ This project intentionally avoids frameworks to gain a deep understanding of Go�
 │ └── products.go
 ├── go.mod
 └── README.md
-``
+```
 ---
 
 ## ▶️ Running the Application
@@ -167,6 +167,7 @@ Hrishab Pachange
 Computer Science Student and Golang Developer  
 AI/ML Engineer Intern  
 REST APIs and Microservices Enthusiast
+
 
 
 
