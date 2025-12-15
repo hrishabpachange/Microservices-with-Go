@@ -79,7 +79,6 @@ http://localhost:9090
 {
   "name": "Espresso",
   "price": 120
-
 }
 
 
@@ -94,7 +93,6 @@ http://localhost:9090
 {
   "name": "Latte",
   "price": 150
-
 }
 
 ---
@@ -169,6 +167,7 @@ Hrishab Pachange
 Computer Science Student and Golang Developer  
 AI/ML Engineer Intern  
 REST APIs and Microservices Enthusiast
+
 
 
 
